@@ -4,3 +4,7 @@ Dans le processus d'onboarding client pour entreprises qui ont des services Saas
 
 
 Se basant sur les données de la compagnie d'une téléphonie, le but de ce projet sera d'analyser les données et les tendances qui seront utiles pour le département marketing et aussi de prédire si un client va se désabonner ou pas.
+
+
+
+https://github.com/mandeng1/mandeng1/blob/master/one_results.PNG
