@@ -8,3 +8,7 @@ Se basant sur les données de la compagnie d'une téléphonie, le but de ce proj
 
 <img src="one_results.PNG" />
 
+# Author
+<br>**Jean Marie Mandeng** <br/>
+Msc Student in Big Data Marketing and Management at Toulouse Business School.<br/>
+<a href="https://www.linkedin.com/in/jean-marie-mandeng/">My Linkedln </a>
